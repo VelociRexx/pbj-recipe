@@ -11,3 +11,19 @@ h2 {
   color: blue;
   text-decoration: underline;
 }
+
+body {
+  width: 500px;
+  margin: 25px auto;
+  background-color: white;
+  padding: 25px 75px;
+  border-radius: 10px;
+}
+
+h1:hover {
+  text-decoration: underline;
+}
+
+html {
+  background-color: grey;
+}
